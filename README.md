@@ -12,6 +12,6 @@ Going MicroServices with .NET
 
 &nbsp;
 ## Meetup N° 03
-[Desarrollo multiplataforma en tiempo récord con Flutter](Meetup_03/First_Talk)
+[Desarrollo multiplataforma en tiempo récord con Flutter](Meetup_03/First_Talk) by [Kevin Morelli](https://github.com/KevMorelli)
 
-Introducción a React Native
+[Introducción a React Native](Meetup_03/React_Native) by [Ezequiel Álvarez](https://github.com/ealvarezk)
