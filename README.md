@@ -4,7 +4,7 @@
 ## Meetup N° 01
 [Desarrollando aplicaciones blockchain con .NET Core](Meetup_01/Blockchain) by [Sebastián Pérez](https://github.com/sebaleoperez)
 
-Going MicroServices with .NET by [David Revoledo](https://github.com/davidrevoledo)
+[Going MicroServices with .NET](Meetup_01/Microservices) by [David Revoledo](https://github.com/davidrevoledo)
 
 &nbsp;
 ## Meetup N° 02
