@@ -22,4 +22,6 @@
 
 &nbsp;
 ## Meetup N° 05
+[Building Angular Apps with ngrx](Meetup_05/NgRx) by [Salim Chemes](https://github.com/salimchemes).
+
 [De paseo por Django](Meetup_05/Django) by [Matias Barriento](https://github.com/matibarriento).
