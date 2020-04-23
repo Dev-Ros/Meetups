@@ -19,3 +19,7 @@
 &nbsp;
 ## Meetup N° 04
 [Python hasta para cepillarse los dientes](Meetup_04) by [Matias Barriento](https://github.com/matibarriento). *[Recording](https://www.youtube.com/watch?v=RamghkIBHV8)*
+
+&nbsp;
+## Meetup N° 05
+[De paseo por Django](Meetup_05/Django) by [Matias Barriento](https://github.com/matibarriento).
